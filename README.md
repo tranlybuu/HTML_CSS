@@ -1,2 +1,2 @@
 # test web
-# https://tranlybuu.github.io/web_check/
+# https://tranlybuu.github.io/HTML_CSS/
